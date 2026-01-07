@@ -1,0 +1,12 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# IDE junk
+.idea/
+.vscode/
+
+# Environment junk
+venv/
+env/
+.env
